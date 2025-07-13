@@ -2,7 +2,7 @@
 
 This project involves working with real-world NYC Yellow Taxi trip data to perform analytical queries using **PySpark** in a **Jupyter Notebook environment**. The task focuses on reading CSV data, transforming it, and running advanced DataFrame queries for insights.
 
-
+## [Notebook](./week8.ipynb)
 
 ## 📁 Dataset
 
