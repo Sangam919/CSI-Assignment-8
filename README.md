@@ -6,7 +6,7 @@ This project involves working with real-world NYC Yellow Taxi trip data to perfo
 
 ## 📁 Dataset
 
-- Source: [NYC Taxi & Limousine Commission](https://www.kaggle.com/datasets/gauravpathak1789/yellow-tripdata-2020-01)
+- Source: [NYC Taxi & Limousine Commission](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - File Used: `yellow_tripdata_2020-01.csv`
 - Size: ~295 MB+
 - Columns include fare, tips, tax, pickup/dropoff times and locations.
